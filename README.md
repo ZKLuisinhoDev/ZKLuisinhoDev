@@ -83,7 +83,7 @@
 
 <br><br>
 
-<h2>GitHub Stats 📊</h2>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZKLuisinhoDev&theme=dark&hide_border=false" />
