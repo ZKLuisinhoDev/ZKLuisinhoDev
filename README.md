@@ -147,32 +147,3 @@ Nariño. * Implementación de IA (TensorFlow) en flujos de eCommerce.
 </div>
 
 <br />
-
-## 📊 Estadísticas GitHub
-
-<div align="center">
-  <p>
-    <img
-      width="48%"
-      src="https://github-readme-stats.vercel.app/api?username=ZKLuisinhoDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"
-    />
-    <img
-      width="42%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZKLuisinhoDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"
-    />
-  </p>
-  <p>
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=ZKLuisinhoDev&theme=tokyonight&hide_border=true&background=00000000"
-    />
-  </p>
-</div>
-
-<br />
-
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
-    width="100%"
-  />
-</div>
