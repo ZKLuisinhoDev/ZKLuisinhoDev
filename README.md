@@ -29,8 +29,8 @@
 
 <br />
 
-## 👨‍💻 Sobre Mí 👋 ¡Hola! Soy un Desarrollador Full Stack con **+3 años de
-experiencia** transformando ideas complejas en soluciones web robustas. Egresado
+## 👨‍💻 Sobre Mí 👋 ¡Hola! Soy un Desarrollador Full Stack con **+3 años de experiencia** 
+Transformando ideas complejas en soluciones web robustas. Egresado
 de la **Universidad de Nariño**, me especializo en construir arquitecturas
 escalables y seguras. 🚀 **Mi enfoque:** * **Backend High-Performance:** Python
 experto (Django REST, FastAPI, Celery). * **Frontend Interactivo:** React,
