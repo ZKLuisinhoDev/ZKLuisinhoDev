@@ -29,16 +29,15 @@
 
 <br />
 
-## 👨‍💻 Sobre Mí 👋 ¡Hola! Soy un Desarrollador Full Stack con **+3 años de experiencia** 
-Transformando ideas complejas en soluciones web robustas. Egresado
-de la **Universidad de Nariño**, me especializo en construir arquitecturas
-escalables y seguras. 🚀 **Mi enfoque:** * **Backend High-Performance:** Python
-experto (Django REST, FastAPI, Celery). * **Frontend Interactivo:** React,
-TypeScript y Astro con un ojo agudo para UI/UX. * **Infraestructura:**
-Despliegues sólidos en VPS, Docker y Nube (AWS/Render). 🌟 **Logros
-destacados:** * Optimización de rendimiento del **40%** en sistemas legacy. *
-Desarrollo de plataformas educativas y de investigación para la Universidad de
-Nariño. * Implementación de IA (TensorFlow) en flujos de eCommerce.
+## 👨‍💻 Sobre Mí 👋 ¡Hola! Soy un Desarrollador Full Stack con **+3 años de
+experiencia** transformando ideas complejas en soluciones web robustas. Egresado
+de la **Ingeniería de Sistemas de la Universidad de Nariño**, me especializo en
+construir arquitecturas escalables y seguras. 🚀 **Mi enfoque:** * **Backend
+High-Performance:** Python (Django, FastAPI), Node.js (NestJS) y Java. *
+**Frontend Moderno:** React, Angular, Astro con Tailwind CSS, Bootstrap y Sass.
+* **Data Science:** Experto en Pandas, Pyplot, Jupyter y procesos ETL con
+MongoDB/MySQL. * **Metodologías Agiles:** Especialista en Scrum, Kanban y
+Extreme Programming (XP).
 
 <br />
 
@@ -47,7 +46,7 @@ Nariño. * Implementación de IA (TensorFlow) en flujos de eCommerce.
 <div align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=py,django,fastapi,react,ts,astro,tailwind,postgres,mysql,redis,docker,git,linux,vscode&perline=14"
+      src="https://skillicons.dev/icons?i=py,django,fastapi,nestjs,java,react,angular,sass,bootstrap,ts,astro,tailwind,postgres,mysql,mongodb,docker,git,linux,vscode&perline=14"
     />
   </a>
 </div>
@@ -62,10 +61,7 @@ Nariño. * Implementación de IA (TensorFlow) en flujos de eCommerce.
       <td width="33%" align="center">
         <h3>🚀 Task / Habit Tracker</h3>
         <p><b>Producción-Ready</b></p>
-        <p>
-          Gestor de tareas Full Stack con FastAPI, React y Autenticación JWT +
-          Argon2.
-        </p>
+        <p>Gestor de tareas Full Stack con FastAPI, React y JWT.</p>
         <p>
           <a
             href="https://github.com/ZKLuisinhoDev/task-habit-tracker-fullstack-fastapi-react"
@@ -77,11 +73,37 @@ Nariño. * Implementación de IA (TensorFlow) en flujos de eCommerce.
         </p>
       </td>
       <td width="33%" align="center">
-        <h3>🛒 Ecomindalapp</h3>
-        <p><b>E-commerce Agroindustrial</b></p>
+        <h3>📊 Academic Analysis</h3>
+        <p><b>Python & Pandas</b></p>
+        <p>Análisis de rendimiento y deserción escolar con Pandas.</p>
         <p>
-          Plataforma Django + React con IA para moderación y gestión de lotes.
+          <a
+            href="https://github.com/ZKLuisinhoDev/academic-performance-analysis-pandas"
+          >
+            <img
+              src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"
+            />
+          </a>
         </p>
+      </td>
+      <td width="33%" align="center">
+        <h3>⚡ API REST FastAPI</h3>
+        <p><b>Backend Pure</b></p>
+        <p>Task Manager API con JWT, SQLAlchemy y Pydantic v2.</p>
+        <p>
+          <a href="https://github.com/ZKLuisinhoDev/fastapi-task-manager-api">
+            <img
+              src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"
+            />
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%" align="center">
+        <h3>🛒 Ecomindalapp</h3>
+        <p><b>Agro E-commerce</b></p>
+        <p>Plataforma Django + React con IA para moderación.</p>
         <p>
           <a href="#">
             <img
@@ -92,8 +114,8 @@ Nariño. * Implementación de IA (TensorFlow) en flujos de eCommerce.
       </td>
       <td width="33%" align="center">
         <h3>🔒 Password Checker</h3>
-        <p><b>Microservicio Seguridad</b></p>
-        <p>Validador en tiempo real con FastAPI y Frontend glassmorphism.</p>
+        <p><b>Security UX</b></p>
+        <p>Validador con FastAPI y Frontend glassmorphism.</p>
         <p>
           <a
             href="https://github.com/ZKLuisinhoDev/fastapi-glass-password-meter"
@@ -104,12 +126,10 @@ Nariño. * Implementación de IA (TensorFlow) en flujos de eCommerce.
           </a>
         </p>
       </td>
-    </tr>
-    <tr>
       <td width="33%" align="center">
         <h3>🏫 CEIFOCE</h3>
         <p><b>Gestión Académica</b></p>
-        <p>Sistema administrativo masivo para UDENAR (Django REST + React).</p>
+        <p>Sistema administrativo masivo para UDENAR.</p>
         <p>
           <a href="#">
             <img
@@ -118,6 +138,8 @@ Nariño. * Implementación de IA (TensorFlow) en flujos de eCommerce.
           </a>
         </p>
       </td>
+    </tr>
+    <tr>
       <td width="33%" align="center">
         <h3>🎓 KENTUR</h3>
         <p><b>LMS Educativo</b></p>
@@ -133,7 +155,7 @@ Nariño. * Implementación de IA (TensorFlow) en flujos de eCommerce.
       <td width="33%" align="center">
         <h3>🎮 Math Invaders</h3>
         <p><b>Game Dev</b></p>
-        <p>Juego educativo en Pygame para enseñar lógica matemática.</p>
+        <p>Juego educativo en Pygame para lógica matemática.</p>
         <p>
           <a href="https://github.com/ZKLuisinhoDev/mathinvaders_kodland">
             <img
@@ -142,8 +164,40 @@ Nariño. * Implementación de IA (TensorFlow) en flujos de eCommerce.
           </a>
         </p>
       </td>
+      <td width="33%" align="center">
+        <!-- Slot Libre -->
+      </td>
     </tr>
   </table>
 </div>
 
 <br />
+
+## 📊 Estadísticas GitHub
+
+<div align="center">
+  <p>
+    <img
+      width="48%"
+      src="https://github-readme-stats.vercel.app/api?username=ZKLuisinhoDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"
+    />
+    <img
+      width="42%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZKLuisinhoDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"
+    />
+  </p>
+  <p>
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=ZKLuisinhoDev&theme=tokyonight&hide_border=true&background=00000000"
+    />
+  </p>
+</div>
+
+<br />
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
+    width="100%"
+  />
+</div>
