@@ -29,8 +29,8 @@
 
 <br />
 
-## 👨‍💻 Sobre Mí 👋 ¡Hola! Soy Luis Felipe, un Desarrollador Full Stack con **+3
-años de experiencia** transformando ideas complejas en soluciones web de alto
+## 👨‍💻 Sobre Mí 👋 ¡Hola! Soy Luis Felipe, un Desarrollador Full Stack con 
+**+3 años de experiencia** transformando ideas complejas en soluciones web de alto
 rendimiento. Egresado de la **Ingeniería de Sistemas de la Universidad de
 Nariño**, me especializo en construir arquitecturas empresariales, escalables y
 seguras. 🚀 **Especialización Core:** * **Java Enterprise:** Experto en **Spring
