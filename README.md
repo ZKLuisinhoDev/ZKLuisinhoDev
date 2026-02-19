@@ -29,15 +29,16 @@
 
 <br />
 
-## 👨‍💻 Sobre Mí 👋 
-¡Hola! Soy un Desarrollador Full Stack con *+3 años de experiencia* transformando ideas complejas en soluciones web robustas. Egresado
-de la **Ingeniería de Sistemas de la Universidad de Nariño**, me especializo en
-construir arquitecturas escalables y seguras. 🚀 **Mi enfoque:** * **Backend
-High-Performance:** Python (Django, FastAPI), Node.js (NestJS) y Java. *
-**Frontend Moderno:** React, Angular, Astro con Tailwind CSS, Bootstrap y Sass.
-* **Data Science:** Experto en Pandas, Pyplot, Jupyter y procesos ETL con
-MongoDB/MySQL. * **Metodologías Agiles:** Especialista en Scrum, Kanban y
-Extreme Programming (XP).
+## 👨‍💻 Sobre Mí 👋 ¡Hola! Soy Luis Felipe, un Desarrollador Full Stack con **+3
+años de experiencia** transformando ideas complejas en soluciones web de alto
+rendimiento. Egresado de la **Ingeniería de Sistemas de la Universidad de
+Nariño**, me especializo en construir arquitecturas empresariales, escalables y
+seguras. 🚀 **Especialización Core:** * **Java Enterprise:** Experto en **Spring
+Boot 3**, Security (JWT), Data JPA y arquitecturas por capas (SOLID). * **Python
+Stack:** Amplio dominio de **Django / DRF**, FastAPI y automatización de
+procesos. * **Frontend Premium:** Creación de interfaces con React 19,
+TypeScript, **PrimeReact** y Tailwind CSS. * **Data & DevOps:** Gestión de SQL
+(MySQL/PostgreSQL), NoSQL (MongoDB), Docker y flujos de CI/CD.
 
 <br />
 
@@ -46,7 +47,7 @@ Extreme Programming (XP).
 <div align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=py,django,fastapi,nestjs,java,react,angular,sass,bootstrap,ts,astro,tailwind,postgres,mysql,mongodb,docker,git,linux,vscode&perline=14"
+      src="https://skillicons.dev/icons?i=java,spring,py,django,fastapi,nestjs,react,angular,sass,bootstrap,ts,astro,tailwind,postgres,mysql,mongodb,docker,git,linux,vscode&perline=14"
     />
   </a>
 </div>
@@ -127,13 +128,15 @@ Extreme Programming (XP).
         </p>
       </td>
       <td width="33%" align="center">
-        <h3>🏫 CEIFOCE</h3>
-        <p><b>Gestión Académica</b></p>
-        <p>Sistema administrativo masivo para UDENAR.</p>
+        <h3>☕ Coffee Manager</h3>
+        <p><b>Enterprise Java</b></p>
+        <p>Sistema integral con Spring Boot 3 + React 19 + JWT.</p>
         <p>
-          <a href="#">
+          <a
+            href="https://github.com/ZKLuisinhoDev/coffee_manager_springboot_react"
+          >
             <img
-              src="https://img.shields.io/badge/Private-FFA500?style=for-the-badge&logo=lock&logoColor=white"
+              src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"
             />
           </a>
         </p>
